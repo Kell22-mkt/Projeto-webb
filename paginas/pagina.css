@@ -1,0 +1,97 @@
+.pagina .curiosidades {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Catamaran';
+  font-weight: 900;
+  font-size: 64px;
+  line-height: 0.344;
+  color: #000000;
+}
+.pagina .curiosidades-1 {
+  margin: 0 42.9px 469.5px 42.9px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Catamaran';
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 0.229;
+  color: #FFFFFF;
+}
+.pagina .f-7-bb-89769-b-04-c-4-c-08-c-831-f-4-cf-8405-c-1 {
+  background: url('../assets/images/f_7_bb_89769_b_04_c_4_c_08_c_831_f_4_cf_8405_c_1.jpeg') 50% / cover no-repeat;
+  width: 868px;
+  height: 683px;
+}
+.pagina .container-2 {
+  margin: 190.5px 169px 0 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.pagina .ff-58-ba-43-e-074789-da-8-cb-68-ed-353-c-05-f-91 {
+  background: url('../assets/images/ff_58_ba_43_e_074789_da_8_cb_68_ed_353_c_05_f_91.jpeg') 50% / cover no-repeat;
+  margin-bottom: 517px;
+  width: 564px;
+  height: 848px;
+}
+.pagina .container-4 {
+  margin-bottom: 377px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.pagina .ab-6-ec-199-c-70-f-11-dca-5688-ce-19-edf-1 {
+  background: url('../assets/images/ab_6_ec_199_c_70_f_11_dca_5688_ce_19_edf_1.jpeg') 50% / cover no-repeat;
+  margin-bottom: 289px;
+  align-self: flex-start;
+  width: 564px;
+  height: 779px;
+}
+.pagina .hedy-lamarr-cria-owifi-1 {
+  background: url('../assets/images/hedy_lamarr_cria_owifi_1.jpeg') 50% / cover no-repeat;
+  width: 686px;
+  height: 991px;
+}
+.pagina .container {
+  margin-right: 281px;
+  display: flex;
+  flex-direction: column;
+  width: 686px;
+  box-sizing: border-box;
+}
+.pagina .fa-6362-f-55596-ea-81-c-40-add-9-b-422653-b-01 {
+  background: url('../assets/images/fa_6362_f_55596_ea_81_c_40_add_9_b_422653_b_01.jpeg') 50% / cover no-repeat;
+  margin: 586px 0 659px 0;
+  width: 564px;
+  height: 814px;
+}
+.pagina .container-3 {
+  margin-left: 70px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  width: 1531px;
+  box-sizing: border-box;
+}
+.pagina .container-1 {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 279px 0 434px 150px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.pagina {
+  background: #FFFFFF;
+  padding: 160px 126.3px 0 126.3px;
+  width: 2037px;
+  box-sizing: border-box;
+}
